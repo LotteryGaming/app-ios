@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://mobile.lottery-gaming.com/download/ios/app.ipa</string>
+					<string>http://mobile.lottery-gaming.com:8080/download/ios/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://mobile.lottery-gaming.com/app-icon.png</string>
+					<string>http://mobile.lottery-gaming.com:8080/app-icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://mobile.lottery-gaming.com/app-icon.png</string>
+					<string>http://mobile.lottery-gaming.com:8080/app-icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>LotteryGaming App download</string>
+				<string>LotteryGaming App</string>
 			</dict>
 		</dict>
 	</array>
